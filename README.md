@@ -28,7 +28,7 @@
 
 ## 배포 파이프라인 설명
 
-![image.png](attachment:3ea51fa6-1856-4878-8015-764be913a7e1:image.png)
+![image](https://github.com/user-attachments/assets/2d7c8e4f-f382-4be3-bde8-bf96ee10be08)
 
 - 배포 파이프라인 그림 & 설명
 
